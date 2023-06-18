@@ -1,0 +1,96 @@
+body{
+   background-color: beige;
+   margin: 0px;
+
+   font-family: "Roboto Slab", serif;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  word-spacing: 0.3em;
+   
+   
+}
+.main{
+   position: relative;
+   
+   margin: 0px;
+   height: auto;
+   width:auto;
+}
+.first{
+   position: absolute;
+   background-color: blue;
+   height: auto;
+   width: 30%;
+}
+
+.description{
+   position: absolute;
+   margin-left: 30%;
+   float: right;
+   background-color: #F5F5F5;
+   height: 1500px;
+   width: 70%;
+}
+
+.profile{
+   background-color: #F5F5F5;
+   text-align: center;
+   height: 500px;
+   width: 100%;
+}
+
+.pro_pic{
+   margin-top: 30px;
+   height: 200px;
+   width: 200px;
+}
+
+.about{
+   background-color: #EEC0C0;
+   height: 1000px;
+   width: 100%;
+}
+h3{
+   margin-top: 0px;
+   margin-left: 25%;
+   margin-bottom: 5px;
+   width: 50%;
+   background-color: #484648;
+   color: white;
+   text-align: center;
+}
+
+
+.map{
+   height: 20px;
+   width: 20px;
+}
+.contact{
+   margin-left: 10%;
+}
+.fa{
+   margin-left: 10%;
+   text-decoration: none;
+}
+.lang{
+   margin-left: 5%;
+}
+h2{
+   margin-left: 5%;
+}
+.about_d{
+   margin-left: 5%;
+}
+hr{
+   margin-left: 8%;
+}
+.skill-t{
+   margin-left:5% ;
+}
+.work-exp ,h4{
+   margin-left: 5%;
+}
+a{
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
